@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LeorumaPong1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/LeorumaPong_jar/LeorumaPong.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
